@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spaappreact/static/css/main.fa70e80b.css",
+    "main.js": "/spaappreact/static/js/main.a4e831ed.js",
+    "index.html": "/spaappreact/index.html",
+    "main.fa70e80b.css.map": "/spaappreact/static/css/main.fa70e80b.css.map",
+    "main.a4e831ed.js.map": "/spaappreact/static/js/main.a4e831ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa70e80b.css",
+    "static/js/main.a4e831ed.js"
+  ]
+}
