@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/spaappreact/static/css/main.fa70e80b.css",
-    "main.js": "/spaappreact/static/js/main.3db94317.js",
+    "main.js": "/spaappreact/static/js/main.f4038382.js",
     "index.html": "/spaappreact/index.html",
     "main.fa70e80b.css.map": "/spaappreact/static/css/main.fa70e80b.css.map",
-    "main.3db94317.js.map": "/spaappreact/static/js/main.3db94317.js.map"
+    "main.f4038382.js.map": "/spaappreact/static/js/main.f4038382.js.map"
   },
   "entrypoints": [
     "static/css/main.fa70e80b.css",
-    "static/js/main.3db94317.js"
+    "static/js/main.f4038382.js"
   ]
 }
